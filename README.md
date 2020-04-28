@@ -10,7 +10,7 @@ Feel free to stick around and check some of our pages.
 
 [Cultural policies](https://github.com/jdhariwal/Group5Project/wiki/ITEM-2:-Cultural-policies)
 
-[Board members](link missing for now)
+[Board members](https://github.com/jdhariwal/Group5Project/wiki/ITEM-3:-Board)
 
 [Ethical policies](https://github.com/jdhariwal/Group5Project/wiki/ITEM-3:-Core-items)
 
