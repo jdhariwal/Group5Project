@@ -16,4 +16,4 @@ Feel free to stick around and check some of our pages.
 
 [Our first approach with this company](https://github.com/jdhariwal/Group5Project/wiki/ITEM-4:-Experimentation)
 
-[Priorities for this company](link missing for now)
+[Priorities for this company](https://github.com/jdhariwal/Group5Project/wiki/ITEM-4:-Priorities)
