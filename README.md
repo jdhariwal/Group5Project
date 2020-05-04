@@ -4,16 +4,16 @@ CS230 Group 5 -  Entrepreneur &amp; Ethics Project
 Welcome to the page for Vi-Bye Antivirus Software, where we plan to made a grand entrance into the field of antivirus softwares.
 Feel free to stick around and check some of our pages.
 
-[Members of this company](https://github.com/jdhariwal/Group5Project/wiki/ITEM-1:-Members-from-the-team-and-their-introductions)
+[Comapny Introduction and Its Goal](https://github.com/jdhariwal/Group5Project/wiki/(Item-1)-Company-Introduction-and-Its-Goal)
 
-[Our goals](https://github.com/jdhariwal/Group5Project/wiki/ITEM-1:-What-is-this-company-and-its-goal)
+[Team Member Introductions](https://github.com/jdhariwal/Group5Project/wiki/(Item-1)-Team-Member-Introductions)
 
-[Cultural policies](https://github.com/jdhariwal/Group5Project/wiki/ITEM-2:-Cultural-policies)
+[Cultural policies](https://github.com/jdhariwal/Group5Project/wiki/(Item-2)-Cultural-Policies)
 
-[Board members](https://github.com/jdhariwal/Group5Project/wiki/ITEM-3:-Board)
+[Core Items](https://github.com/jdhariwal/Group5Project/wiki/(Item-3)-Core-Items)
 
-[Ethical policies](https://github.com/jdhariwal/Group5Project/wiki/ITEM-3:-Core-items)
+[The Board](https://github.com/jdhariwal/Group5Project/wiki/(Item-3)-The-Board)
 
-[Our first approach with this company](https://github.com/jdhariwal/Group5Project/wiki/ITEM-4:-Experimentation)
+[Experimentation](https://github.com/jdhariwal/Group5Project/wiki/(Item-4)-Experimentation)
 
-[Priorities for this company](https://github.com/jdhariwal/Group5Project/wiki/ITEM-4:-Priorities)
+[Priorities](https://github.com/jdhariwal/Group5Project/wiki/(Item-4)-Priorities)
